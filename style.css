@@ -16,9 +16,24 @@ h1{
     justify-content: space-evenly;
     width: 200px;
 }
+.social-icons :hover{
+    color: rgb(124, 180, 149);
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+}
 
 .nav-bar a{
     text-decoration: none;
-    color: white;
+    color: rgb(197, 216, 246);
     font-size: 18px;
+}
+.nav-bar a:hover{
+    text-decoration: none;
+    color: red;
+    font-size: 18px;
+}
+
+span{
+    margin-right: 10px;
 }
