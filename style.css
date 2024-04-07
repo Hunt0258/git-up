@@ -2,3 +2,17 @@ h1{
     color: red;
     text-align: center;
 }
+
+.nav-bar{
+    background-color: rgb(55, 53, 63);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 40px;
+}
+.social-icons{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+}
